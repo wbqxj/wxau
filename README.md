@@ -1,1 +1,1 @@
-# wxau
+使用wxauto模块获取微信的文字信息调用zhipuaiApi接口实现微信自动回复消息
