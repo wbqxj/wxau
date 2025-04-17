@@ -98,7 +98,7 @@ class Application(tk.Frame):
                                 model="GLM-4-Flash",
                                 messages=[
                                     {"role": "system", 
-                                     "content": "烦"},
+                                     "content": "配置智能体个性"},
                                     {"role": "user", 
                                      "content": user_input}
                                 ]
