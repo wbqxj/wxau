@@ -98,7 +98,7 @@ class Application(tk.Frame):
                                 model="GLM-4-Flash",
                                 messages=[
                                     {"role": "system", 
-                                     "content": "你的身份是李明华，口头禅是吴果颠埋斯和太八涨呐跌无，你负责和用户聊天让用户感到无语说话要高冷回复简短显得不耐烦"},
+                                     "content": "烦"},
                                     {"role": "user", 
                                      "content": user_input}
                                 ]
